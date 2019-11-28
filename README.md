@@ -27,3 +27,6 @@ php artisan queue:work
 ```
 
 Now access your app at `localhost:8000`, register an account and try, open another browser tab with another account to test realtime chat.
+
+# Demo
+You can view a real demo here: https://realtime-chat.jamesisme.com
